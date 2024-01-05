@@ -1,0 +1,265 @@
+body {
+color: #485558;
+font-family: "OpenSans";
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px; 24; 176; 923
+letter-spacing: 0; 100px;
+display: flex;
+flex-direction: column
+gap: 60px;
+}
+
+.header_top {
+    max-width: 100vw;
+    width: 1440px;
+    height: 768px;
+    background-image: url(Images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    color: #fff
+    text-align: center;
+    font-style: normal;
+    line-height: normal;
+}
+
+.logo {
+    width: 101.610px;
+    height: 23px;
+}
+
+.header_title { 
+font-size: 60px;
+letter-spacing: 70px;
+}
+
+.header_subtitle {
+font-size: 16px;
+font-weight: 600;
+}
+
+.header_botton {
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    color: #fff
+    letter-spacing: 3 
+}
+
+.header_top {
+    display: flex
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+.header_navigation {
+    border: Ipx solid #D66E6E
+    background: #fff
+}
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.logo black {
+    width: 101.62px;
+    height: 23px;
+}
+
+.header_navigation-inner {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 0;
+}
+
+.header_navigation-list {
+    display: flex;
+    gap: 48px
+}
+
+.header_link {
+    color:#485558;
+    text-align: center;
+    font-family: OpenSans;
+    Font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.991px;
+}
+
+.header_link_active {
+    color: blue
+    font-weight: 700;
+}
+
+.about_content {
+    display: flex;
+    gap: 60px;
+}
+
+.about_content_text. .about_content { 
+    width: 50%;
+}
+
+.title {
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 2.306px;
+}
+
+.title: :before {
+    content: 
+    position: absolute;
+    bottom: 18px;
+    left: 47%;
+    width: 16px;
+    height: 2px;
+    background-color: #FF007ACC
+
+}
+
+.about_text_bold {
+    color:#485558
+
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.180px;
+    margin-bottom: 30px;
+}
+
+.about_text_bold_span {
+    color: #FF007ACC
+}
+
+.about_content-decoration {
+        display: flex;
+        gap: 20px;
+}
+
+.about_card {
+    width: 941px;
+    height: 344px;
+    padding-left: 249px;
+    padding-top: 891px; 
+}
+
+.about_card_plan {
+    background-image: url('Images/plan.png'); no-repeat; 100%
+}
+
+.about_card_manage {
+    background-image: url('Images/manage.png'); no-repeat; 100%
+}
+
+.about_card_build {
+    background-image: url('Images/bitmap.png'); no-repeat; 100%
+}
+.about_card_text {
+    color: #fff
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 29px; /* 328.833% */;
+    letter-spacing: 0.180px;
+}
+
+.services.inner {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.services.title. 
+.services_title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services_decoration {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services_card. {
+    width: 200px;
+    height: 225px;
+    padding: 40px 27px;
+    border: lpx solid #fff; 
+
+    background: #fff;
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.services_image {
+    width: 65.625px;
+    height: 75px;
+}
+.services_card.title. {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; /* 150% */;
+    letter-spacing: 0.427px;
+}
+
+.title.left {
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: start;
+}
+
+.title.left: :before {
+    content
+    position: absolute;
+    bottom: 18px;
+    left: 10;
+    width: 50px;
+    height: 2px;
+    background-color: #8569В
+}
+
+.services_additional {
+    width: 60%;
+    height: 225px;
+}
+
+.services_text {
+    font-size: 11px;
+    font-style: normal;
+    line-height: 15px; /* 172.72% */;
+    letter-spacing: 0.2px;
+}
+
+.services_button {
+    width: 150px;
+    height: 40px;
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+   
